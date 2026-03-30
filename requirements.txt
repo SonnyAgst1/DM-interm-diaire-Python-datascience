@@ -1,1 +1,5 @@
-
+pandas
+matplotlib
+cartiflette
+GeoPandas
+seaborn
