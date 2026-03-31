@@ -3,3 +3,6 @@ matplotlib
 cartiflette
 GeoPandas
 seaborn
+numpy
+great_tables
+
